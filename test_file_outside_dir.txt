@@ -1,1 +1,1 @@
-I am outside the directory
+I am outside the directory and merged
