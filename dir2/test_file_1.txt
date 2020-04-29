@@ -1,0 +1,1 @@
+I am a test file in dir2 of repo c
